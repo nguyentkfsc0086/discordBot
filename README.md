@@ -8,7 +8,7 @@ How to use this?
 2. Change the reward and the condition based on your own server
 3. Create your own bot on discord
 4. Replace the parameter inside bot.run('') by your bot token
-5. Use this command to allowed Python to run in
+5. Use this command to allowed Python to host this bot on your own sever. 
    Replace 3.11 by your Python version
    ```HTML
    /Applications/Python\ 3.11/Install\ Certificates.command
